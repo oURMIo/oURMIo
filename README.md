@@ -39,3 +39,11 @@
 <p dir="auto" align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oURMIo&theme=tokyonight&utcOffset=8">
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oURMIo/oURMIo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oURMIo/oURMIo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oURMIo/oURMIo/output/github-contribution-grid-snake.svg">
+</picture>
