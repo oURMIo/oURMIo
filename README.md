@@ -39,12 +39,14 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img width="350" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ourmio&theme=tokyonight" alt="ourmio" />
-  <img width="350" height="180" src="https://github-readme-stats.vercel.app/api?username=oURMIo&theme=tokyonight">
-  <img width="350" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourmio&size_weight=0.0005&count_weight=0.3&layout=compact&theme=tokyonight">
-  <img width="350" height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oURMIo&theme=tokyonight&utcOffset=8">
-  <img src="https://github-profile-trophy.vercel.app/?username=ourmio&theme=tokyonight" alt="ourmio"/>
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width: 740px;">
+    <img width="350" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ourmio&theme=tokyonight" alt="ourmio" />
+    <img width="350" height="180" src="https://github-readme-stats.vercel.app/api?username=oURMIo&theme=tokyonight">
+    <img width="350" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourmio&size_weight=0.0005&count_weight=0.3&layout=compact&theme=tokyonight">
+    <img width="350" height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oURMIo&theme=tokyonight&utcOffset=8">
+  </div>
+    <img src="https://github-profile-trophy.vercel.app/?username=ourmio&theme=tokyonight" alt="ourmio"/>
 </div>
 
 <hr/>
