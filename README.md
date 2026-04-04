@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=8842FF&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dmitry+Chistyakov!;" />
 </h1>
 
-```
+```shell
 **  ***  ** *******  **       *****    *****   **       ** *******
 **  ***  ** **       **      *******  *******  ***     *** **
 ** ***** ** **       **      **   **  **   **  ****   **** **
@@ -24,7 +24,15 @@
   <a href="https://dmitrych.ddns.net/">
     <img src="https://img.shields.io/badge/Business Card-link-purple">
   </a>
+    <a>
+        <img src="https://komarev.com/ghpvc/?username=ourmio&label=Profile%20views&color=0e75b6&style=flat" alt="ourmio" />
+    </a>
+    <p align="centry">
+    <a href="https://www.linkedin.com/in/dmitry-chistyakov-41217130b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dmitry-chistyakov-41217130b/" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/oURMIo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ourmio/" height="30" width="40" /></a>
+    </p>
 </div>
+
 
 <hr/>
 
@@ -42,11 +50,13 @@
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width: 740px;">
     <img width="350" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ourmio&theme=tokyonight" alt="ourmio" />
+<!-- 
     <img width="350" height="180" src="https://github-readme-stats.vercel.app/api?username=oURMIo&theme=tokyonight">
     <img width="350" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ourmio&size_weight=0.0005&count_weight=0.3&layout=compact&theme=tokyonight">
+-->
     <img width="350" height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oURMIo&theme=tokyonight&utcOffset=8">
   </div>
-    <img src="https://github-profile-trophy.vercel.app/?username=ourmio&theme=tokyonight" alt="ourmio"/>
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=ourmio&theme=tokyonight" alt="ourmio"/> -->
 </div>
 
 <hr/>
