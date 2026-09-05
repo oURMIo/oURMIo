@@ -21,7 +21,7 @@
   <a href="https://github.com/oURMIo?tab=followers">
     <img src="https://img.shields.io/github/followers/oURMIo?style=social&label=Follow&maxAge=2592000">
   </a>
-  <a href="https://dmitrych.ddns.net/">
+  <a href="https://dmitrych.duckdns.org/">
     <img src="https://img.shields.io/badge/Business Card-link-purple">
   </a>
     <a>
